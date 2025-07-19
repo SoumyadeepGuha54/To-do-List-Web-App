@@ -82,8 +82,8 @@ ul li.checked {
 ul li.checked::before {
   content: "";
   position: absolute;
-  height: 18px;
-  width: 18px;
+  height: 16px;
+  width: 16px;
   left: 0;
   background-image: url("assets/circle-check.png");
   background-size: cover;
